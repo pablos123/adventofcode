@@ -1,2 +1,2 @@
-# My solutions of the challenges at https://adventofcode.com/
+# My solutions to the challenges of https://adventofcode.com/
 
