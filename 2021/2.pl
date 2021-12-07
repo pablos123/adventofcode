@@ -6,6 +6,8 @@ part1();
 print "============= PART 2 =============\n";
 part2();
 
+exit 0;
+
 sub part1 {
     my ($horizontal, $depth);
 
